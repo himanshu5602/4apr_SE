@@ -1,0 +1,2 @@
+que 1)-->SELECT * FROM `student` WHERE stu_age=20
+que 2)-->SELECT subject_id FROM `column_table` WHERE subject_id="bca103"
